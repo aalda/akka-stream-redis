@@ -1,5 +1,8 @@
 # akka-stream-redis #
 
+The Redis connector provides Akka Stream sources and sinks to connect to Redis Pub/Sub servers.
+
+
 ## Installation
 
 ``` scala
