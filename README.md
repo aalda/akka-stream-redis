@@ -1,5 +1,7 @@
 # akka-stream-redis #
 
+**NOT READY FOR USE**
+
 The Redis connector provides Akka Stream sources and sinks to connect to Redis Pub/Sub servers.
 
 
